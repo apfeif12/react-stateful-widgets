@@ -43,7 +43,7 @@ export default function Programmers() {
   const style = {
     fontSize: '1.5em',
     marginTop: '0.5em',
-    color: featured ? 'gold' : 'crimson'
+    color: featured ? 'gold' : 'royalblue'
   };
 
   return (
